@@ -1,0 +1,26 @@
+<html>
+<title> Practical No-03 </title>
+<body bgcolor ="pink">
+<h1> Shubhra D. Konge </h1>
+<h2> CS25046 </h2>
+<h3> My Subjects</h3>
+<ol type="none">
+<li>Chemistry</li>
+<li>Web Designing</li>
+<li>Electrical Engineering</li>
+</ol>
+<ul>
+<h3>College Facilities</h3>
+<li>Classrooms</li>
+<li>Library</li>
+<li>Computer Lab</li>
+</ul>
+<dl>
+<dt> Section A </dt>
+<dd> Myself Shubhra Konge from Section A, and i am learning web development.</dd>
+</dl>
+<a href="Practical No-02">
+<h4> To go home click here </h4>
+</a>
+<img src ="sunset.img"height="200" width="200">
+</html>
